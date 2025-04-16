@@ -4,13 +4,13 @@
 
 <h3>🤝 Let’s Connect!</h3>
 <p>
-  <a href="https://www.linkedin.com/in/senzod">
+  <a href="https://www.linkedin.com/in/senzod" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:dlomosenzokuhle@gmail.com">
+  <a href="mailto:dlomosenzokuhle@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://forum.uipath.com/u/senzod/summary">
+  <a href="https://forum.uipath.com/u/senzod/summary" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/UiPath_Forum-orange?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath Forum">
   </a>
 </p>
@@ -92,14 +92,14 @@
 <hr>
 
 <h3>🎥 RPA Challenge: Solving the Dynamic Form Data Entry</h3>
-<p>I recently participated in an exciting <strong>RPA Challenge</strong> from <a href="https://rpachallenge.com/">rpachallenge.com</a>, where the goal was to create an automated workflow capable of inputting data from a spreadsheet into dynamic form fields that change position after every submission. The challenge had the following requirements:</p>
+<p>I recently participated in an exciting <strong>RPA Challenge</strong> from <a href="https://rpachallenge.com/" target="_blank" rel="noopener noreferrer">rpachallenge.com</a>, where the goal was to create an automated workflow capable of inputting data from a spreadsheet into dynamic form fields that change position after every submission. The challenge had the following requirements:</p>
 <ul>
   <li><strong>Data Input Automation:</strong> The workflow needed to automatically input data into form fields that change positions after each submission, for a total of <strong>10 rounds</strong>.</li>
   <li><strong>Dynamic Field Recognition:</strong> Since the positions of the fields shift after every submission, the workflow had to <strong>dynamically identify</strong> where each piece of data from the spreadsheet should go, ensuring accuracy on every round.</li>
   <li><strong>Timing Constraints:</strong> The challenge also had a <strong>countdown timer</strong> that started once the "Start" button was clicked, adding pressure to complete the task efficiently.</li>
 </ul>
 <p>You can watch my full solution in action in this YouTube video, where I walk through the <strong>workflow design</strong> and explain the approach I used to ensure <strong>accuracy, speed, and scalability</strong> across the 10 rounds of changing fields. This showcases my skills in <strong>workflow design, dynamic field handling, problem-solving, and efficient automation development</strong>.</p>
-<p><a href="https://www.youtube.com/watch?v=YOUR_VIDEO_LINK">Watch my RPA Challenge Solution on YouTube</a></p>
+<p><a href="https://www.youtube.com/watch?v=YOUR_VIDEO_LINK" target="_blank" rel="noopener noreferrer">Watch my RPA Challenge Solution on YouTube</a></p>
 
 <hr>
 
@@ -132,22 +132,25 @@ _A multi-functional web utility suite built with core web technologies_
   - 🏠 Unified Home Dashboard
 
 - **Live Demo**:  
-  [![Live Demo](https://img.shields.io/badge/View_Live-Demo-2ea44f?style=for-the-badge)](https://senzokuhle.github.io/)
+  <a href="https://senzokuhle.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View_Live-Demo-2ea44f?style=for-the-badge" alt="Live Demo">
+  </a>
 
 <hr>
 
 <h3> 📄 Download Resume</h3>
 <p>
-  You can download my detailed resume in PDF format: <a href="Resume.pdf">Download Resume</a>
+  You can download my detailed resume in PDF format: 
+  <a href="Resume.pdf" target="_blank" rel="noopener noreferrer">Download Resume</a>
 </p>
 
 <hr>
 
 <h3>🌐 Community & Side Projects</h3>
 <ul>
-  <li>💬 Contributed <strong>70+ solutions</strong> on <a href="https://forum.uipath.com/u/senzod/summary">UiPath Forum</a>, primarily focused on UI Automation and data extraction.</li>
+  <li>💬 Contributed <strong>70+ solutions</strong> on <a href="https://forum.uipath.com/u/senzod/summary" target="_blank" rel="noopener noreferrer">UiPath Forum</a>, primarily focused on UI Automation and data extraction.</li>
   <li>🏅 Winner of <strong>UiPath Monthly Contributor Reward</strong></li>
-  <li>🌐 Built and deployed a live site for a Johannesburg-based investment firm: <a href="https://kopanyoinvest.co.za">kopanyoinvest.co.za</a></li>
+  <li>🌐 Built and deployed a live site for a Johannesburg-based investment firm: <a href="https://kopanyoinvest.co.za" target="_blank" rel="noopener noreferrer">kopanyoinvest.co.za</a></li>
 </ul>
 
 <hr>
