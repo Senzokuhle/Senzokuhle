@@ -113,15 +113,26 @@
 
 <hr>
 
-<h3> 🛠️ Currently Working On</h3>
-<ul>
-  <li>
-    <strong>Portfolio Website (NARM Stack):</strong> Developing a portfolio website to showcase my projects, including project descriptions, problem statements, solutions, impact, and tools used.
-  </li>
-  <li>
-    <strong>Public Diary Website (PHP, SQL, HTML):</strong> Building a public diary platform where users can anonymously share their thoughts, receive private messages, and engage in public encouragement (with temporary display of comments).
-  </li>
-</ul>
+### 🚧 Currently Working On
+
+**The Swiss Army Knife Toolkit**  
+_A multi-functional web utility suite built with core web technologies_
+
+- **Tech Stack**:  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+
+- **Key Components**:
+  - 🎰 Lotto Generator (SA Lotto & PowerBall)
+  - 🔒 Password Generator with customizable parameters
+  - 🧮 Smart Calculator with expression evaluation
+  - 📱 South African Cell Number Validator
+  - 📧 RFC-compliant Email Validator
+  - 🏠 Unified Home Dashboard
+
+- **Live Demo**:  
+  [![Live Demo](https://img.shields.io/badge/View_Live-Demo-2ea44f?style=for-the-badge)](https://senzokuhle.github.io/)
 
 <hr>
 
