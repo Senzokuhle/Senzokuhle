@@ -116,7 +116,7 @@
 <h3> 🛠️ Currently Working On</h3>
 <ul>
   <li>
-    <strong>Portfolio Website (NAM Stack):</strong> Developing a portfolio website to showcase my projects, including project descriptions, problem statements, solutions, impact, and tools used.
+    <strong>Portfolio Website (NARM Stack):</strong> Developing a portfolio website to showcase my projects, including project descriptions, problem statements, solutions, impact, and tools used.
   </li>
   <li>
     <strong>Public Diary Website (PHP, SQL, HTML):</strong> Building a public diary platform where users can anonymously share their thoughts, receive private messages, and engage in public encouragement (with temporary display of comments).
