@@ -2,7 +2,7 @@
   <img src="Banner.png" alt="Profile Banner" width="800">
 </div>
 
-<h1 align="center">Hey there, I'm Senzokuhle Dlomo 👋</h1>
+<h1 align="center">Hey there, I'm Senzo Dlomo 👋</h1>
 <p align="center">
   <em>Automation Consultant • RPA Developer • Software Engineer</em><br>
   <strong>Transforming business processes with code, automation, and intelligent tech.</strong>
@@ -11,7 +11,7 @@
 <hr>
 
 <h3>🔧 About Me</h3>
-<p>I’m a passionate <strong>Software Developer and RPA Consultant</strong> with 6+ years of experience delivering automation, system integration, and digital transformation across industries. I'm particularly fascinated by the potential of AI to further enhance automation and create truly intelligent workflows. I specialize in building <strong>scalable, intelligent solutions</strong> with UiPath and Microsoft technologies, integrating everything from legacy systems to AI-powered services.</p>
+<p>I’m a passionate <strong>Software Developer and RPA Consultant</strong> with 6+ years of experience delivering automation, system integration, and digital transformation across industries. I'm particularly fascinated by the potential of AI to enhance automation further and create truly intelligent workflows. I specialise in building <strong>scalable, intelligent solutions</strong> with UiPath and Microsoft technologies, integrating everything from legacy systems to AI-powered services.</p>
 
 <hr>
 
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins">
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white" alt="Azure DevOps">
-  <img src="https://imgshields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white" alt="Power BI">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white" alt="Power BI">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
 </p>
 
