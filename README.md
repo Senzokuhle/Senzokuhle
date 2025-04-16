@@ -2,7 +2,22 @@
   <img src="Banner.png" alt="Profile Banner" width="800">
 </div>
 
-<h1 align="center">Hey there, I'm Senzo Dlomo 👋</h1>
+<h3>🤝 Let’s Connect!</h3>
+<p>
+  <a href="https://www.linkedin.com/in/senzod">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:dlomosenzokuhle@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://forum.uipath.com/u/senzod/summary">
+    <img src="https://img.shields.io/badge/UiPath_Forum-orange?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath Forum">
+  </a>
+</p>
+
+<hr>
+
+<h1 align="center">Hi there, I am Senzo Dlomo 👋</h1>
 <p align="center">
   <em>Automation Consultant • RPA Developer • Software Engineer</em><br>
   <strong>Transforming business processes with code, automation, and intelligent tech.</strong>
@@ -11,7 +26,7 @@
 <hr>
 
 <h3>🔧 About Me</h3>
-<p>I’m a passionate <strong>Software Developer and RPA Consultant</strong> with 6+ years of experience delivering automation, system integration, and digital transformation across industries. I'm particularly fascinated by the potential of AI to enhance automation further and create truly intelligent workflows. I specialise in building <strong>scalable, intelligent solutions</strong> with UiPath and Microsoft technologies, integrating everything from legacy systems to AI-powered services.</p>
+<p>I am a passionate <strong>Software Developer and RPA Consultant</strong> with 6+ years of experience delivering automation, system integration, and digital transformation across industries. I'm particularly fascinated by the potential of AI to enhance automation further and create truly intelligent workflows. I specialise in building <strong>scalable, intelligent solutions</strong> with UiPath and Microsoft technologies, integrating everything from legacy systems to AI-powered services.</p>
 
 <hr>
 
@@ -123,21 +138,6 @@
   <li>🏅 Winner of <strong>UiPath Monthly Contributor Reward</strong></li>
   <li>🌐 Built and deployed a live site for a Johannesburg-based investment firm: <a href="https://kopanyoinvest.co.za">kopanyoinvest.co.za</a></li>
 </ul>
-
-<hr>
-
-<h3>🤝 Let’s Connect!</h3>
-<p>
-  <a href="https://www.linkedin.com/in/senzod">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/senzokuhle">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://forum.uipath.com/u/senzod/summary">
-    <img src="https://img.shields.io/badge/UiPath_Forum-orange?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath Forum">
-  </a>
-</p>
 
 <hr>
 
