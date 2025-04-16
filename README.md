@@ -99,7 +99,7 @@
   <li><strong>Timing Constraints:</strong> The challenge also had a <strong>countdown timer</strong> that started once the "Start" button was clicked, adding pressure to complete the task efficiently.</li>
 </ul>
 <p>You can watch my full solution in action in this YouTube video, where I walk through the <strong>workflow design</strong> and explain the approach I used to ensure <strong>accuracy, speed, and scalability</strong> across the 10 rounds of changing fields. This showcases my skills in <strong>workflow design, dynamic field handling, problem-solving, and efficient automation development</strong>.</p>
-<p><a href="https://www.youtube.com/watch?v=YOUR_VIDEO_LINK" target="_blank" rel="noopener noreferrer">Watch my RPA Challenge Solution on YouTube</a></p>
+<p><a href="[https://www.youtube.com/watch?v=PuJdlp8ZKCY](https://youtu.be/PuJdlp8ZKCY?si=3RX119ew6n-7e5Qv)" target="_blank" rel="noopener noreferrer">Watch my RPA Challenge Solution on YouTube</a></p>
 
 <hr>
 
