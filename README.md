@@ -87,7 +87,7 @@
   <li>🧠 Created <strong>insightful dashboards</strong> (Power BI, Tableau, Insights) to track ROI and process health</li>
   <li>🌍 Collaborated with <strong>EMEA stakeholders</strong> on high-impact digital transformation initiatives</li>
   <li>⚡ Maintained <strong>99.9% bot uptime</strong> through robust production support and proactive monitoring</li>
-  <li>💬 Contributed over <strong>800 posts</strong> on the UiPath Dev Community Forum, with <strong>76 marked as solutions</strong> and <strong>322 likes</strong> from fellow developers</li>
+  <li>💬 Contributed over <strong>800 posts</strong> on the UiPath Dev Community Forum, with <strong>76 marked as solutions</strong> and <strong>322 received appreciation</strong> from fellow developers</li>
 </ul>
 
 <hr>
