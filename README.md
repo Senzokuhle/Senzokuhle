@@ -83,10 +83,11 @@
 <h3>🏆 Key Achievements</h3>
 <ul>
   <li>✅ Built a <strong>supplier vetting automation</strong> using APIs and OCR to validate and vet suppliers across multiple platforms</li>
-  <li>🔐 Developed <strong>secure, reusable RPA libraries</strong>, reducing development time by 40% and removing the need for direct credential handling</li>
+  <li>🔐 Developed <strong>secure, reusable RPA libraries</strong>, reducing development time by 40% and eliminating the need for direct credential handling</li>
   <li>🧠 Created <strong>insightful dashboards</strong> (Power BI, Tableau, Insights) to track ROI and process health</li>
   <li>🌍 Collaborated with <strong>EMEA stakeholders</strong> on high-impact digital transformation initiatives</li>
-  <li>⚡ Maintained 99.9% bot uptime with robust production support and proactive monitoring</li>
+  <li>⚡ Maintained <strong>99.9% bot uptime</strong> through robust production support and proactive monitoring</li>
+  <li>💬 Contributed over <strong>800 posts</strong> on the UiPath Dev Community Forum, with <strong>76 marked as solutions</strong> and <strong>322 likes</strong> from fellow developers</li>
 </ul>
 
 <hr>
