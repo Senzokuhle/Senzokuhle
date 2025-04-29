@@ -112,7 +112,7 @@ A highly detailed, multi-platform supplier and client vetting automation develop
 <ul>
   <li>AI Career Essentials - ALX Africa (2024)</li>
   <li>UiPath Certified RPA Associate (UiRPA) - UiPath (2023)</li>
-  <li>Power Platform Fundamentals - Microsoft (2020)</li>
+  <li>Power Platform Fundamentals (PL-900) - Microsoft (2020)</li>
   <li>Scrum Fundamentals - SCRUM study (2018)</li>
 </ul>
 
