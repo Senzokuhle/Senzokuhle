@@ -58,7 +58,7 @@ A comprehensive, fully automated candidate onboarding workflow designed for the 
     <td valign="top" width="50%">
 
 ### 📌 Supplier & Client Vetting Automation  
-A highly detailed, multi-platform supplier and client vetting automation developed for the Master Data team to manage regulatory compliance and risk screening. The solution automated the collection of supplier information, reputation checks, financial stability validations, and sanction screening — integrating various government, financial, and legal data sources. The entire process was multilingual and region-specific, providing tailored results for markets in Germany, the UK, and The Netherlands.
+A highly detailed, multi-platform supplier and client vetting automation developed for the Master Data team to manage regulatory compliance and risk screening. The solution automated the collection of supplier information, reputation checks, financial stability validations, and sanction screening, integrating various government, financial, and legal data sources. The entire process was multilingual and region-specific, providing tailored results for markets in Germany, the UK, and The Netherlands.
 
 **Tools:**  
 - **UiPath:** The primary automation tool responsible for executing all vetting workflows, handling browser-based data extraction and interactions with secured portals.  
@@ -211,4 +211,4 @@ _A multi-functional web utility suite built with core web technologies_
 
 <hr>
 
-<p><em>“Automation is not just a tool — it’s a mindset shift that unlocks innovation, efficiency, and value.”</em></p>
+<p><em>“Automation is not just a tool, it’s a mindset shift that unlocks innovation, efficiency, and value.”</em></p>
