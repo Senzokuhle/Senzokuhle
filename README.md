@@ -69,8 +69,7 @@ A highly detailed, multi-platform supplier and client vetting automation develop
 
 **System Integrations:**  
 - **Nexis Diligence+ via OKTA Auth:** Conducted sanctions and negative press checks for companies or individuals.  
-- **Dun & Bradstreet:** Pulled company financial reports and risk profiles.  
-- **SurveyMonkey API:** Sent supplier feedback surveys post-vetting.  
+- **Dun & Bradstreet:** Pulled company financial reports and risk profiles.   
 - **ServiceNow API:** Logged exceptions, retries, and error notifications as tickets for IT support follow-ups.  
 - **Google Search (multi-language):** Performed reputational checks in English, Dutch, and German markets.  
 - **VAT & Company Registries:** Validated supplier tax and registration numbers through multiple European platforms.  
