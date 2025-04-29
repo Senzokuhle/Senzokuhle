@@ -40,8 +40,7 @@
 A comprehensive, fully automated candidate onboarding workflow designed for the Human Resources department, integrating multiple cloud services and enterprise systems to streamline hiring and improve process consistency. This automation handles offer generation, contract processing, IT onboarding, HR notifications, and employee feedback surveys, significantly reducing HR’s administrative burden while improving the candidate experience.
 
 **Tools:**  
-- **Power Automate:** Main orchestration engine managing triggers, document processing, email communications, escalations, and task scheduling.  
-- **Power Apps:** (N/A in this instance)  
+- **Power Automate:** Main orchestration engine managing triggers, document processing, email communications, escalations, and task scheduling.   
 - **SharePoint:** Central storage for contract templates, candidate tracking records, signed documents, and audit logs.  
 - **Excel Online:** Maintained master candidate records not available in TalentLyft; used for cross-validation and triggering escalations if incomplete.  
 - **Word Online:** Populated offer templates with candidate-specific data, converting final documents to PDF for secure delivery.  
