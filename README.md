@@ -19,7 +19,7 @@
 
 <h1 align="center">Hi there, I am Senzo Dlomo 👋</h1>
 <p align="center">
-  <em>Automation Consultant • RPA Developer • Software Engineer</em><br>
+  <em>Automation Consultant • Robotic Process Automation (RPA) • Software Developer</em><br>
   <strong>Transforming business processes with code, automation, and intelligent tech.</strong>
 </p>
 
@@ -37,50 +37,54 @@
     <td valign="top" width="50%">
 
 ### 📌 Candidate Onboarding Automation  
-This automation solution streamlined the end-to-end candidate onboarding process for HR, integrating multiple business systems and services into a seamless, responsive workflow. Triggered by status updates from TalentLyft, it generates offer letters, manages IT onboarding, coordinates HR communications, and captures employee feedback surveys post-hire — all automatically handled via integrated services. The solution reduced manual workload and drastically cut onboarding times.
+A comprehensive, fully automated candidate onboarding workflow designed for the Human Resources department, integrating multiple cloud services and enterprise systems to streamline hiring and improve process consistency. This automation handles offer generation, contract processing, IT onboarding, HR notifications, and employee feedback surveys, significantly reducing HR’s administrative burden while improving the candidate experience.
 
 **Tools:**  
-- **Power Automate:** Orchestrated the entire onboarding process, integrating data sources, triggering workflows, and managing email communications and reminders.  
-- **Power Apps:** Captured and managed candidate data, employment details, and submission forms via an HR-facing app interface.  
-- **SharePoint:** Hosted contract templates, document archives, and status-tracking lists for each candidate.  
-- **Azure SQL Database:** Logged process events, errors, and success statuses for MIS reporting and audit tracking.  
-- **Power BI:** Provided operational reporting and real-time process tracking dashboards.  
+- **Power Automate:** Main orchestration engine managing triggers, document processing, email communications, escalations, and task scheduling.  
+- **Power Apps:** (N/A in this instance)  
+- **SharePoint:** Central storage for contract templates, candidate tracking records, signed documents, and audit logs.  
+- **Excel Online:** Maintained master candidate records not available in TalentLyft; used for cross-validation and triggering escalations if incomplete.  
+- **Word Online:** Populated offer templates with candidate-specific data, converting final documents to PDF for secure delivery.  
+- **Outlook:** Managed offer notifications, HR escalations, IT ticket follow-ups, and calendar event creation.  
+- **Azure SQL Database:** Logged all automation events, errors, and escalations to support MIS reporting and SLA tracking.  
+- **Power BI:** Delivered operational reporting and HR process analytics dashboards.
 
 **System Integrations:**  
-- **TalentLyft Webhooks:** Triggered workflows when candidate status changed.  
-- **FreshDesk API:** Automated IT ticket creation for new hire equipment and account provisioning.  
-- **SurveyMonkey API:** Sent satisfaction surveys at defined onboarding milestones.  
-- **Outlook / Word Online:** Managed offer letter generation and automated communications with candidates and HR.  
+- **TalentLyft Webhooks:** Triggered onboarding workflow when candidates moved to ‘Offer’ status.  
+- **FreshDesk API:** Automated IT setup ticket creation, monitoring resolution status, and managing escalation workflows.  
+- **SurveyMonkey API:** Scheduled and dispatched satisfaction surveys to new hires at 7, 30, and 90-day milestones.  
+- **Outlook / Calendar API:** Sent reminders to hiring managers and HR throughout the onboarding process, including candidate start date confirmations.
 
 </td>
     <td valign="top" width="50%">
 
 ### 📌 Supplier & Client Vetting Automation  
-This high-impact automation solution simplified and accelerated the supplier and client vetting process for regulatory and financial compliance across multiple markets. Submissions made through a Power App would initiate an integrated vetting workflow, pulling data from public registries, sanction lists, and financial databases, then packaging results into multilingual audit-ready reports delivered securely to business users.
+A highly detailed, multi-platform supplier and client vetting automation developed for the Master Data team to manage regulatory compliance and risk screening. The solution automated the collection of supplier information, reputation checks, financial stability validations, and sanction screening — integrating various government, financial, and legal data sources. The entire process was multilingual and region-specific, providing tailored results for markets in Germany, the UK, and The Netherlands.
 
 **Tools:**  
-- **UiPath:** Handled all core automation and data extraction, interacting with external systems via browsers and APIs.  
-- **Power Apps:** Provided a user-friendly submission interface for the Master Data team to submit new vetting requests.  
-- **Power Automate:** Routed submission data, triggered bots, and managed escalations and notifications.  
-- **Azure SQL Database:** Captured logs and status updates for operational visibility.  
-- **Power BI:** Delivered real-time vetting process analytics, SLA tracking, and exception reports.  
+- **UiPath:** The primary automation tool responsible for executing all vetting workflows, handling browser-based data extraction and interactions with secured portals.  
+- **Power Apps:** Provided an input form for master data users to submit supplier details, with built-in field validation, mandatory field checks, and dynamic dropdown menus for countries and search types.  
+- **Power Automate:** Received form submissions, formatted details for regex-friendly processing, and dispatched them via email to trigger UiPath bot execution.  
+- **Azure SQL Database:** Logged process steps, errors, market origins, and audit records for SLA tracking and operational insights.  
+- **Power BI:** Consolidated performance metrics and exceptions into actionable dashboards for continuous process improvement.
 
 **System Integrations:**  
-- **SurveyMonkey API:** Triggered supplier feedback surveys post-onboarding.  
-- **ServiceNow API:** Automatically created support tickets for errors or exceptions during vetting.  
-- **Nexis Diligence+ (OKTA Auth):** Automated reputation, sanction, and negative press checks.  
-- **Dun & Bradstreet:** Pulled financial stability reports for supplier assessments.  
-- **Google Search (multi-language):** Conducted reputational checks for suppliers in German, Dutch, and English markets.  
-- **Azure Blob Storage:** Archived completed reports and supporting screenshots for audits.  
-- **Outlook / SharePoint:** Distributed final reports securely and managed expiring archives.
+- **Nexis Diligence+ via OKTA Auth:** Conducted sanctions and negative press checks for companies or individuals.  
+- **Dun & Bradstreet:** Pulled company financial reports and risk profiles.  
+- **SurveyMonkey API:** Sent supplier feedback surveys post-vetting.  
+- **ServiceNow API:** Logged exceptions, retries, and error notifications as tickets for IT support follow-ups.  
+- **Google Search (multi-language):** Performed reputational checks in English, Dutch, and German markets.  
+- **VAT & Company Registries:** Validated supplier tax and registration numbers through multiple European platforms.  
+- **Azure Blob Storage:** Archived final vetting reports, screenshots, and financial documents for compliance audits.  
+- **Outlook / SharePoint:** Shared final reports and audit documents with business users via secure, time-limited SharePoint folders.
 
 </td>
   </tr>
 </table>
 
 <p align="center"><em>More project summaries coming soon...</em></p>
-
 <hr>
+
 
 <h3>🚀 Tech Stack & Skills</h3>
 
