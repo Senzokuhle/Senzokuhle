@@ -84,57 +84,6 @@ A highly detailed, multi-platform supplier and client vetting automation develop
 <p align="center"><em>More project summaries coming soon...</em></p>
 <hr>
 
-
-<h3>🚀 Tech Stack & Skills</h3>
-
-<h4><strong>Core Expertise</strong></h4>
-<p>
-  <img src="https://img.shields.io/badge/UiPath-3E8D0C?style=flat&logo=uipath&logoColor=white" alt="UiPath">
-  <img src="https://img.shields.io/badge/Microsoft_Power_Automate-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Power Automate">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-</p>
-
-<h4><strong>Related Technologies</strong></h4>
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML-FF5722?style=flat&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-0277BD?style=flat&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/REST_API-00A8E8?style=flat&logo=api&logoColor=white" alt="REST API">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" alt="Swagger">
-</p>
-
-<h4><strong>Automation & RPA (Other)</strong></h4>
-<p>
-  <img src="https://img.shields.io/badge/Blue_Prism-005288?style=flat&logo=blueprism&logoColor=white" alt="Blue Prism">
-</p>
-
-<h4><strong>AI & Intelligent Processing</strong></h4>
-<p>
-  <img src="https://img.shields.io/badge/Azure_Cognitive_Services-0089D6?style=flat&logo=microsoftazure&logoColor=white" alt="Azure Cognitive Services">
-  <img src="https://img.shields.io/badge/Google_Cloud_Vision_OCR-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud Vision OCR">
-</p>
-
-<h4><strong>Databases (Other)</strong></h4>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle">
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white" alt="SharePoint">
-</p>
-
-<h4><strong>DevOps & Tools</strong></h4>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins">
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white" alt="Azure DevOps">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white" alt="Power BI">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
-</p>
-
-<hr>
-
 <h3>🏆 Key Achievements</h3>
 <ul>
   <li>✅ Built a <strong>supplier vetting automation</strong> using APIs and OCR to validate and vet suppliers across multiple platforms</li>
@@ -210,5 +159,82 @@ _A multi-functional web utility suite built with core web technologies_
 </ul>
 
 <hr>
+
+<h3 align="center">🚀 Tech Stack & Skills</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" colspan="2"><strong>Core Expertise</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/UiPath-3E8D0C?style=flat&logo=uipath&logoColor=white">
+      <img src="https://img.shields.io/badge/Microsoft_Power_Automate-0078D4?style=flat&logo=microsoft&logoColor=white">
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="2"><strong>Related Technologies</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/HTML-FF5722?style=flat&logo=html5&logoColor=white">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CSS-0277BD?style=flat&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/REST_API-00A8E8?style=flat&logo=api&logoColor=white">
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="2"><strong>AI, RPA & DevOps Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Blue_Prism-005288?style=flat&logo=blueprism&logoColor=white">
+      <img src="https://img.shields.io/badge/Azure_Cognitive_Services-0089D6?style=flat&logo=microsoftazure&logoColor=white">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Google_Cloud_Vision_OCR-4285F4?style=flat&logo=googlecloud&logoColor=white">
+      <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="2"><strong>Databases & Analytics</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white">
+      <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white">
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="2"><strong>Version Control & CI/CD</strong></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+<hr>
+
 
 <p><em>“Automation is not just a tool, it’s a mindset shift that unlocks innovation, efficiency, and value.”</em></p>
